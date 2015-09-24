@@ -1,1 +1,22 @@
-Hejsan
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Box-model</title>
+	<style type="text/css">
+		section article {
+		width: 600px;
+		background-color: grey;
+		}
+		section img {
+		width: 600px;
+		height: 300px;
+		}
+		html {
+		background-color: #E6E3D4;
+		}
+</head>
+<body>
+	<p> </p>
+</body>
+</html>
